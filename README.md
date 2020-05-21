@@ -1,4 +1,4 @@
-# runtime_function_composer_ffi
+# Foreign function interface based on runtime comnposition of native glue code
 Abstract foreign function interface based on glue code composition while application is being executed
 
 Required MuJs
