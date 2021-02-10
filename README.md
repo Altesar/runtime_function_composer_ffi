@@ -1,7 +1,9 @@
 # Foreign function interface based on runtime comnposition of native glue code
-Abstract foreign function interface based on glue code composition while application is being executed
+A proof of concept FFI that generates glue code in runtime, using precompiled assembly language fragments
 
-Required MuJs
+Requires MuJs
+Assembly fragments must be compiled manually into plain binary files before running the application
+
 Build using CMake
 
 Entry point executes simple benchmark
