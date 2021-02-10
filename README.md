@@ -1,4 +1,4 @@
-# Foreign function interface based on runtime comnposition of native glue code
+# Foreign function interface based on runtime comnposition of native glue code ( Linux )
 A proof of concept FFI that generates glue code in runtime, using precompiled assembly language fragments
 
 Requires MuJs
